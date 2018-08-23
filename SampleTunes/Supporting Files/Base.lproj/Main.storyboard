@@ -81,6 +81,7 @@
                                         <connections>
                                             <outlet property="artistLabel" destination="dCy-Oa-VwG" id="U5K-m3-gwX"/>
                                             <outlet property="cancelButton" destination="M2s-C8-VDm" id="Hb9-Fh-EKL"/>
+                                            <outlet property="downloadButton" destination="kWF-4f-8LJ" id="TFO-pt-LtE"/>
                                             <outlet property="pauseButton" destination="ztw-BS-qMO" id="lwF-nu-dme"/>
                                             <outlet property="progressLabel" destination="TuF-q6-sRr" id="ZUI-1p-9Ys"/>
                                             <outlet property="progressView" destination="c2u-Pn-Mc1" id="VAu-QU-GaE"/>
